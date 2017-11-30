@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Font1.spritefont</Source>
+      <Name>Font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\Font1.xnb</Output>
+      <Time>2014-02-23T19:53:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2014-02-23T20:05:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>infoFont.spritefont</Source>
+      <Name>infoFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\infoFont.xnb</Output>
+      <Time>2014-02-25T13:52:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>highlight.png</Source>
+      <Name>highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\highlight.xnb</Output>
+      <Time>2014-02-05T09:13:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>plus.png</Source>
+      <Name>plus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\plus.xnb</Output>
+      <Time>2014-02-25T17:28:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>animals.png</Source>
+      <Name>animals</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\animals.xnb</Output>
+      <Time>2014-02-12T09:54:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>animalBackgrounds.png</Source>
+      <Name>animalBackgrounds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\animalBackgrounds.xnb</Output>
+      <Time>2014-02-19T09:39:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>startbutton.png</Source>
+      <Name>startbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\startbutton.xnb</Output>
+      <Time>2014-02-23T15:20:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>continuebutton.png</Source>
+      <Name>continuebutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\continuebutton.xnb</Output>
+      <Time>2014-02-23T15:33:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>exitbutton.png</Source>
+      <Name>exitbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\exitbutton.xnb</Output>
+      <Time>2014-02-23T15:25:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>mainmenubutton.png</Source>
+      <Name>mainmenubutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\mainmenubutton.xnb</Output>
+      <Time>2014-02-25T16:34:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>optionsbutton.png</Source>
+      <Name>optionsbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\optionsbutton.xnb</Output>
+      <Time>2014-02-25T12:06:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>infobutton.png</Source>
+      <Name>infobutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\infobutton.xnb</Output>
+      <Time>2014-02-25T12:31:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>musicbutton.png</Source>
+      <Name>musicbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\musicbutton.xnb</Output>
+      <Time>2014-02-25T19:28:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>soundsbutton.png</Source>
+      <Name>soundsbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\soundsbutton.xnb</Output>
+      <Time>2014-02-25T19:30:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>squares.png</Source>
+      <Name>squares</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\squares.xnb</Output>
+      <Time>2014-02-27T21:18:34+00:00</Time>
+    </Item>
+    <Item>
+      <Source>elephantImage.png</Source>
+      <Name>elephantImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\elephantImage.xnb</Output>
+      <Time>2014-02-27T21:14:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>giraffeImage.png</Source>
+      <Name>giraffeImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\giraffeImage.xnb</Output>
+      <Time>2014-02-26T22:03:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>background.jpg</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2014-02-26T22:25:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>infobubble.png</Source>
+      <Name>infobubble</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\infobubble.xnb</Output>
+      <Time>2014-02-26T23:59:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>highscorebackground.png</Source>
+      <Name>highscorebackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\highscorebackground.xnb</Output>
+      <Time>2014-02-27T19:17:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>game.mp3</Source>
+      <Name>game</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\game.xnb</Output>
+      <Extra>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\game.wma</Extra>
+      <Time>2014-02-25T21:03:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>menus.mp3</Source>
+      <Name>menus</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\menus.xnb</Output>
+      <Extra>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\menus.wma</Extra>
+      <Time>2014-02-25T22:51:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>click.wav</Source>
+      <Name>click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\click.xnb</Output>
+      <Time>2014-02-25T23:03:34+00:00</Time>
+    </Item>
+    <Item>
+      <Source>clickMenus.wav</Source>
+      <Name>clickMenus</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\clickMenus.xnb</Output>
+      <Time>2014-02-25T23:19:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>gameover.wav</Source>
+      <Name>gameover</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\gameover.xnb</Output>
+      <Time>2014-02-25T23:20:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>crocodile.wav</Source>
+      <Name>crocodile</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\crocodile.xnb</Output>
+      <Time>2014-02-26T21:44:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>elephant.wav</Source>
+      <Name>elephant</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\elephant.xnb</Output>
+      <Time>2014-02-26T21:16:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>giraffe.wav</Source>
+      <Name>giraffe</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\giraffe.xnb</Output>
+      <Time>2014-02-26T21:13:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>hippo.wav</Source>
+      <Name>hippo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\hippo.xnb</Output>
+      <Time>2014-02-26T21:47:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>lion.wav</Source>
+      <Name>lion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\lion.xnb</Output>
+      <Time>2014-02-26T21:14:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>monkey.wav</Source>
+      <Name>monkey</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\monkey.xnb</Output>
+      <Time>2014-02-26T21:45:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>panda.wav</Source>
+      <Name>panda</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\panda.xnb</Output>
+      <Time>2014-02-26T21:47:10+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{05B26EBF-B59A-40D8-88E7-47464A313851}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour FloodContent\</RootDirectory>
+      <LoggerRootDirectory>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\Complete ( copy off here)\Project8 C00181305\Colour Flood\Colour Flood\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-12-03T12:59:53.0771329+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

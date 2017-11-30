@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colour Flood", "Colour Flood\Colour Flood\Colour Flood.csproj", "{A9322D24-6039-4C78-A670-9A6FB0AB8F10}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Colour FloodContent", "Colour Flood\Colour FloodContent\Colour FloodContent.contentproj", "{05B26EBF-B59A-40D8-88E7-47464A313851}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9322D24-6039-4C78-A670-9A6FB0AB8F10}.Debug|x86.ActiveCfg = Debug|x86
+		{A9322D24-6039-4C78-A670-9A6FB0AB8F10}.Debug|x86.Build.0 = Debug|x86
+		{A9322D24-6039-4C78-A670-9A6FB0AB8F10}.Release|x86.ActiveCfg = Release|x86
+		{A9322D24-6039-4C78-A670-9A6FB0AB8F10}.Release|x86.Build.0 = Release|x86
+		{05B26EBF-B59A-40D8-88E7-47464A313851}.Debug|x86.ActiveCfg = Debug|x86
+		{05B26EBF-B59A-40D8-88E7-47464A313851}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
