@@ -9,3 +9,5 @@ of time to complete the game.
 #### Controls: 
 Mouse click to select the animal to flood with.
 
+
+[Video](https://youtu.be/dSTuNdInS80?list=PLn9-l8kkg87PzWmn7uGRBlUTwavOcUfOw)
